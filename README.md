@@ -1,1 +1,1 @@
-# bitcoim
+# bitcoin
